@@ -1,5 +1,7 @@
 Rails app generated with [lewagon/rails-templates](https://github.com/lewagon/rails-templates), created by the [Le Wagon coding bootcamp](https://www.lewagon.com) team.
 
+Web application which enables the user to write "multi-path stories."
+
 Assuming you already have rails installed
 To run the app:
 1. Make sure you are inside the multipath folder in the terminal
